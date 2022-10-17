@@ -1,0 +1,24 @@
+header {
+  align-items: center;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.13);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  color: white;
+  display: flex;
+  height: 72px;
+  justify-content: space-between;
+  padding: 6px;
+}
+
+.userInfo {
+  display: flex;
+  font-size: 18px;
+  justify-content: space-evenly;
+  min-width: fit-content;
+  width: 350px;
+}
+
+.banner {
+  font-size: 36px;
+}
